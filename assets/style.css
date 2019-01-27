@@ -1,0 +1,80 @@
+html {
+    box-sizing: border-box
+}
+
+* , * :before, * :after {
+    box-sizing: inherit
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0
+}
+
+html, body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5
+}
+
+html {
+    overflow-x: hidden
+}
+
+h2 {
+    font-size: 30px
+}
+
+.style-serif {
+    font-family: serif
+}
+
+h2 {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0
+}
+
+.style-wide {
+    letter-spacing: 4px
+}
+
+.style-center .style-bar {
+    display: inline-block;
+    width: auto
+}
+
+.style-content {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.style-content {
+    max-width: 980px
+}
+
+.style-container {
+    padding: 0.01em 16px
+}
+
+.style-opacity {
+    opacity: 0.60
+}
+
+.style-justify {
+    text-align: justify !important
+}
+
+.style-center {
+    text-align: center !important
+}
+
+.style-padding-64 {
+    padding-top: 64px !important;
+    padding-bottom: 64px !important
+}
+
