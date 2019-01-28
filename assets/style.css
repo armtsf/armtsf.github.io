@@ -82,15 +82,15 @@ h2 {
     font-size: 30px !important
 }
 
-.style-link {
+a.style-link {
 	color: gray
 }
 
-.style-link:link {
+a.style-link:link {
 	text-decoration: none;
 }
 
-.style-link:hover {
+a.style-link:hover {
 	text-decoration: underline;
 	color: grey
 }
