@@ -73,8 +73,28 @@ h2 {
     text-align: center !important
 }
 
-.style-padding-64 {
+.style-padding {
     padding-top: 64px !important;
-    padding-bottom: 64px !important
+    padding-bottom: 45px !important
 }
 
+.style-xlarge {
+    font-size: 30px !important
+}
+
+.style-link {
+	color: gray
+}
+
+.style-link:link {
+	text-decoration: none;
+}
+
+.style-link:hover {
+	text-decoration: underline;
+	color: grey
+}
+.style-button {
+	text-decoration: none;
+	color: #484848
+}
